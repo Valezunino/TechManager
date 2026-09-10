@@ -1,3 +1,4 @@
 # TechManager
 
-Repositorio principal del proyecto TechManager. El trabajo de cada integrante se organiza en ramas individuales.
+Repositorio principal del proyecto TechManager.
+Repositorio donde se va a pushear todo el proyecto y Hostearlo a Vercel para que sea funcional
